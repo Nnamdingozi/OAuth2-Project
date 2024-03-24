@@ -7,8 +7,8 @@ This application allows user to log in using GitHub account for authentication;
 
 ## Prerequisite
 
-*github account.
-*Node.Js
+* github account.
+* Node.Js
 
 ### Features
 
