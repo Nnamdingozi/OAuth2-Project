@@ -13,20 +13,20 @@ This application allows user to log in using GitHub account for authentication;
 ### Features
 
 
--dotenv module
--express module
--express-session module
--passport.js
--passport-github2 module
--ejs views
+* dotenv module
+* express module
+* express-session module
+* passport.js
+* passport-github2 module
+* ejs views
 
 ### Skills
 
 
--Set up githu OAuth application and generated clientID and clientSecret.
--set up express-session;
--Configured passport to use GitHubStrategy and to serialize and deserialize users.
--implemented OAuth2 Routes and passed in passport.authenticate middleware.
+* Set up githu OAuth application and generated clientID and clientSecret.
+* set up express-session;
+* Configured passport to use GitHubStrategy and to serialize and deserialize users.
+* implemented OAuth2 Routes and passed in passport.authenticate middleware.
 
 ### Run App
 
